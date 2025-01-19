@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "enter your session",
+    SESSION_ID: process.env.SESSION_ID || "1aUCQTTI#T1RPnEe7qxlgrWiyr8yhVprLjFJIFGU1lI0kIctFKCY",
     SUDO_NB: process.env.SUDO_NB || "923237045919",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
     READ_MESSAGE: process.env.READ_MESSAGE || "false", // Added auto-read configuration
@@ -18,7 +18,7 @@ module.exports = {
     ANTI_LINK: process.env.ANTI_LINK || "true",
     ANTI_BAD: process.env.ANTI_BAD || "true",
     PREFIX: process.env.PREFIX || ".",
-    FAKE_RECORDING: process.env.FAKE_RECORDING || "false",
+    FAKE_RECORDING: process.env.FAKE_RECORDING || "true",
     AUTO_REACT: process.env.AUTO_REACT || "true",
     HEART_REACT: process.env.HEART_REACT || "true",
     OWNER_REACT: process.env.OWNER_REACT || "true",

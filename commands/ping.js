@@ -36,20 +36,20 @@ async function pingCommand(sock, chatId, message) {
         const platform = `${os.type()} (${os.arch()})`;
 
         const botInfo = `
-╭━━━〔 ⚡ *${settings.botName || "ARSLAN-AI"} STATUS PANEL* ⚡ 〕━━━╮
+╭━〔 ⚡ *${settings.botName || "ARSLAN-AI"} STATUS* ⚡ 〕━━╮
 ┃ 🤖 *Bot Name:* ${settings.botName || "Arslan-Ai"}
 ┃ 👑 *Owner:* ${settings.ownerName || "ArslanMD Official"}
 ┃ 🔖 *Version:* v${settings.version || "2.0"}
-┃
 ┃ ⚡ *Ping:* ${ping} ms
 ┃ ⏱️ *Uptime:* ${uptimeFormatted}
 ┃ 💻 *Platform:* ${platform}
 ┃ 🧠 *CPU:* ${cpu}
 ┃ 🖥️ *RAM:* ${usedRam} / ${totalRam} GB
 ┃ 📡 *Mode:* ${settings.mode?.toUpperCase() || "PUBLIC"}
-╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
+╰━━━━━━━━━━━━━━━╯
 
-*© 2025 ${settings.botName || "Arslan-Ai"} | Power By ArslanMD Official 🔥*
+* *© 2025 ${settings.botName || "Arslan-Ai"}*
+> *Power By ArslanMD Official 🔥*
         `.trim();
 
         // Stylish message send karein 💫

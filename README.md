@@ -1,15 +1,9 @@
 # 〘 ARSLAN-MD 〙  
 > ✨ *Ultra Pro Max WhatsApp Bot* ✨  
 
-## Folders:  
-- 📁 `main` - Bot ka dil  
-- 🖼️ `Media` - Images/Stickers  
-- 🗃️ `database` - User data
-
-
 🤖 ***Arslan-MD*** - MULTIPLE POWERFUL WHATSAPP BOT
 
-> ⚔️ Developed by ArslanMD Official | 100+ Features | Super Aggressive Bot
+> ⚔️ Developed by ArslanMD Official | 300+ Features | Super Aggressive Bot
 </div>
 
 <p align="center">
@@ -17,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/bxqan2.png" />
+  <img src="https://files.catbox.moe/amq6q8.jpg" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
